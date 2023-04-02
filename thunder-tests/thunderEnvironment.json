@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "c4d7e35a-f292-493a-98ed-04c003d9c134",
+    "name": "prod_sample",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2023-04-02T22:48:10.766Z",
+    "modified": "2023-04-02T22:48:10.766Z",
+    "data": [
+      {
+        "name": "baseUrl",
+        "value": "https://api.sampleapis.com"
+      }
+    ]
+  }
+]
