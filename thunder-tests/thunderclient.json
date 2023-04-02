@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "ea9ada72-4177-4856-a2af-f41e983e1ad7",
+    "colId": "ea6722e5-6dbc-4e8b-8d0d-5a333871b977",
+    "containerId": "0ec2e2b1-8cc6-4045-90f5-bf81f8798f9d",
+    "name": "hot",
+    "url": "{{baseUrl}}/coffee/hot",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2023-04-02T22:25:07.849Z",
+    "modified": "2023-04-02T23:22:01.092Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
