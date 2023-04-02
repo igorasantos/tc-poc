@@ -11,6 +11,31 @@
     "modified": "2023-04-02T23:22:01.092Z",
     "headers": [],
     "params": [],
-    "tests": []
+    "tests": [
+      {
+        "type": "res-code",
+        "custom": "",
+        "action": "equal",
+        "value": "200"
+      },
+      {
+        "type": "res-time",
+        "custom": "",
+        "action": "<=",
+        "value": "1000"
+      },
+      {
+        "type": "res-body",
+        "custom": "",
+        "action": "isjson",
+        "value": ""
+      },
+      {
+        "type": "json-query",
+        "custom": "json",
+        "action": "istype",
+        "value": "array"
+      }
+    ]
   }
 ]
