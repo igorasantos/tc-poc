@@ -1,0 +1,7 @@
+{
+  "thunder-client.saveToWorkspace": true,
+  "thunder-client.sidebar.defaultTab": "Collections",
+  "thunder-client.sidebar.showActivityFromCollection": false,
+  "thunder-client.saveRequestOnSend": false,
+  "thunder-client.httpLibrary": "axios"
+}
