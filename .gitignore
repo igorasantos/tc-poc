@@ -1,0 +1,4 @@
+# if your local dot envs contain tokens:
+# .env
+# .env.*
+# *.env
