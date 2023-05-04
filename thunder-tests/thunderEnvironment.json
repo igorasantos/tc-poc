@@ -13,5 +13,26 @@
       }
     ],
     "envFile": "../.env"
+  },
+  {
+    "_id": "132b7b09-ab46-46a7-96fe-df2f259ab2d1",
+    "name": "(Local Env)",
+    "default": false,
+    "global": true,
+    "local": true,
+    "sortNum": -1,
+    "created": "2023-05-04T02:12:40.041Z",
+    "modified": "2023-05-04T02:12:40.041Z",
+    "data": []
+  },
+  {
+    "_id": "664a9677-cb65-40ca-8b4e-ba25e9202238",
+    "name": "(Global Env)",
+    "default": false,
+    "global": true,
+    "sortNum": -2,
+    "created": "2023-05-04T02:12:41.838Z",
+    "modified": "2023-05-04T02:12:41.838Z",
+    "data": []
   }
 ]
